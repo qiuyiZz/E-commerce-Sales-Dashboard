@@ -2,10 +2,8 @@
 Qiuyi Zhang-501375-qiuyiZz
 
 <h1>Sales Dashboard</h1>
-<h2>Rubric</h2>
-<h3>Rubric turned in on time (5 points)<h3>
 
-<h3>LThis is a sales dashboard which contains a connected flask backend to a react frontend, with Mongo DB database.</h3>
+<h3>This is a sales dashboard which contains a connected flask backend to a react frontend, with Mongo DB database.</h3>
 
 <h3>Functionality</h3>
 Users can register, login, and logout<p>
@@ -22,6 +20,6 @@ Keep mongoDB running;
 <h2>Backend</h2>
 run App.py
 <h2>Frontend</h2>
-cd frontend
-npm i
-npm start
+cd frontend<p>
+npm i<p>
+npm start<p>
