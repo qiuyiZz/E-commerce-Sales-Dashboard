@@ -1,6 +1,3 @@
-# CSE330
-Qiuyi Zhang-501375-qiuyiZz
-
 <h1>Sales Dashboard</h1>
 
 <h3>This is a sales dashboard which contains a connected flask backend to a react frontend, with Mongo DB database.</h3>
