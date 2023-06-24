@@ -8,8 +8,8 @@
 - Applied MongoDB to implement real-time orders and stock management<p>
 
 ### Login & Register
-<img width="1270" alt="2961678211985_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510502-39290b73-ca36-4054-9152-c27d98a44880.png">
-<img width="1275" alt="2951678211985_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510509-511c4f79-b760-4e33-805e-24fbe0ce0e92.png">
+<img width="595" alt="2961678211985_ pic_hd" src="https://github.com/qiuyiZz/SalesDashboard/assets/110421938/da5cf00f-7617-47ca-9a6c-222dc03a0a16">
+<img width="595" alt="2951678211985_ pic_hd" src="https://github.com/qiuyiZz/SalesDashboard/assets/110421938/55bca323-1f10-4497-8336-de1ee18dde9b">
 
 ### Weekly sales data
 <img width="1257" alt="2941678211984_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510687-828db7a4-acf8-465a-833c-c4888811be24.png">
