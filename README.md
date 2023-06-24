@@ -30,7 +30,9 @@
 
 ## Backend
 Step1: Enter the backend directory and create and activate your environment:
+
 `cd backend`
+
 For mac/unix:
 
 **create:** `python3 -m venv env`
@@ -48,12 +50,16 @@ Step2: Install the requirements using: 
 `pip install -r requirements.txt`
 
 Step3: Run `app.py` to start the flask backend server.
+
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ## Frontend
 
 `cd frontend`
+
 Run `npm i` to install all dependencies.
+
 Run `npm start` to start the frontend of the application.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
