@@ -3,9 +3,8 @@
 ### This is a sales dashboard that contains a Flask backend connecting to a React frontend, using a MongoDB database.
 
 ### Functionality
-- Constructed a Sales dashboard application for E-commerce users with real-time data visualization, developed independently deployable and scalable modules including admin, orders, stock, etc. <p>
-- Developed the dashboard with React.js and Python Flask. Achieved weekly sales data visualization with ChartJs<p>
-- Applied MongoDB to implement real-time orders and stock management<p>
+- Constructed a Sales dashboard application for E-commerce users with real-time data visualization, developed inde- pendently deployable and scalable modules including admin, orders, stock, etc.
+- Developed the dashboard with React.js and Python Flask with RESTful APIs and achieved weekly sales data visualization with ChartJs. Applied MongoDB database to implement real-time orders and stock management
 
 
 ### Orders
