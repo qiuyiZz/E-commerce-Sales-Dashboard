@@ -7,19 +7,25 @@
 - Developed the dashboard with React.js and Python Flask with RESTful APIs and achieved weekly sales data visualization with ChartJs. Applied MongoDB database to implement real-time orders and stock management
 
 
-### Orders
-<img width="1264" alt="2971678211985_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510809-198f344e-ce43-49dc-be09-be21b37ff1d3.png">
-<img width="1268" alt="2991678211986_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510822-383be44f-ebdc-465d-adfe-d0c38cbb744a.png">
-
 ### Stock Management
-<img width="1271" alt="2981678211985_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510854-c4063027-b34b-4930-80b8-e7f5f5fe3b77.png">
+<img width="1396" alt="stocks" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/330fad94-e9b6-4ca7-8007-25390ffced5a">
+<img width="1416" alt="add stock" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/e5df41eb-9066-472e-bd35-19b7e964663d">
+<img width="1416" alt="edit stock" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/867f1400-8ef5-4e76-8063-76f5055103d5">
+
+### Orders
+<img width="1421" alt="orders list" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/382d65e2-4d04-4b2e-962a-57e945efeafd">
+<img width="1421" alt="customer page" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/2be8d03f-70bf-4a75-bc05-03617972a366">
+
+<img width="1421" alt="submit order" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/e34532b7-04cc-4993-84cf-5302292de42d">
+
 
 ### Weekly sales data
-<img width="1257" alt="2941678211984_ pic_hd" src="https://user-images.githubusercontent.com/110421938/223510687-828db7a4-acf8-465a-833c-c4888811be24.png">
+<img width="1421" alt="analysis" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/1589f9b3-0a6e-4b7e-b936-f25d98a838fd">
 
 ### Login & Register
-<img width="595" alt="2961678211985_ pic_hd" src="https://github.com/qiuyiZz/SalesDashboard/assets/110421938/da5cf00f-7617-47ca-9a6c-222dc03a0a16">
-<img width="595" alt="2951678211985_ pic_hd" src="https://github.com/qiuyiZz/SalesDashboard/assets/110421938/55bca323-1f10-4497-8336-de1ee18dde9b">
+<img width="1207" alt="login" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/581843e1-bbac-49f2-a519-21f11f497901">
+<img width="1207" alt="register" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/284d0ebb-6de8-4489-9841-efc5577251e1">
+
 
 
 # How to run the appilication
