@@ -26,11 +26,14 @@
 
 - Install nodejs npm and react
   - Download nodejs on https://nodejs.org/en/download
-- Keep mongoDB running  
+- Keep mongoDB running
+  
+  - `brew services start mongodb-community@6.0`
   - Connected to: localhost:27017
 
 ## Backend
 Step1: Enter the backend directory and create and activate your environment:
+
 
 `cd backend`
 
