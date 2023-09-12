@@ -8,25 +8,21 @@
 
 
 ### Stock Management
-<img width="1396" alt="stocks" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/330fad94-e9b6-4ca7-8007-25390ffced5a">
-<img width="1416" alt="add stock" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/e5df41eb-9066-472e-bd35-19b7e964663d">
-<img width="1416" alt="edit stock" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/867f1400-8ef5-4e76-8063-76f5055103d5">
+<img width="1307" alt="stocks_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/f16d401a-a22e-4727-8c65-1ca01ad30bc6">
+<img width="1307" alt="add_stock_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/c3f417e7-378f-40b8-b2c4-d7dc9dcc635f">
+<img width="1307" alt="edit_stock_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/94d25217-673c-482d-afb2-298382471aec">
 
 ### Orders
-<img width="1421" alt="orders list" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/382d65e2-4d04-4b2e-962a-57e945efeafd">
-<img width="1421" alt="customer page" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/2be8d03f-70bf-4a75-bc05-03617972a366">
-
-<img width="1421" alt="submit order" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/e34532b7-04cc-4993-84cf-5302292de42d">
-
+<img width="1307" alt="order_list_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/c77b4c45-787c-48a9-9bf7-0188dba4e98c">
+<img width="1390" alt="customer_pages_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/0ecfb7c2-12ef-4291-be3e-746ca3babfcf">
+<img width="1390" alt="submit_order_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/c3b5cd40-caf3-4039-85a7-0cbd846a86fc">
 
 ### Weekly sales data
-<img width="1421" alt="analysis" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/1589f9b3-0a6e-4b7e-b936-f25d98a838fd">
+<img width="1390" alt="analysis_new_2" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/ab52eb32-b5f3-471e-baa8-59ad59b4a296">
 
 ### Login & Register
-<img width="1101" alt="login" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/83ceb299-01a5-4f2f-91da-796088f2761f">
-<img width="1207" alt="register" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/284d0ebb-6de8-4489-9841-efc5577251e1">
-
-
+<img width="1101" alt="login_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/bf74be13-7685-418a-8488-27989faa7485">
+<img width="1064" alt="register_new" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/543175d7-4584-4cd0-a6ef-c2f289ef043e">
 
 # How to run the appilication
 
