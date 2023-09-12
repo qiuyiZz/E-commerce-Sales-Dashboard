@@ -23,7 +23,7 @@
 <img width="1421" alt="analysis" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/1589f9b3-0a6e-4b7e-b936-f25d98a838fd">
 
 ### Login & Register
-<img width="1207" alt="login" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/581843e1-bbac-49f2-a519-21f11f497901">
+<img width="1101" alt="login" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/83ceb299-01a5-4f2f-91da-796088f2761f">
 <img width="1207" alt="register" src="https://github.com/qiuyiZz/E-commerce-Sales-Dashboard/assets/110421938/284d0ebb-6de8-4489-9841-efc5577251e1">
 
 
